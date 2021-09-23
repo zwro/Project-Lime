@@ -1,0 +1,59 @@
+body{
+  width: 1000px;
+  margin: auto;
+  font-family: Arial;
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+.logo{
+  width: 30%;
+  text-align: center;
+}
+
+
+h1{
+  color: lime;
+}
+
+nav{
+  background-color: lime;
+  text-align: center;
+  padding: 10px;
+}
+
+main{
+  color: white;
+}
+
+h2{
+  display: inline-block;
+}
+
+.contenitore{
+  background-color: rgba(0,0,0,0.5);
+  margin-top: 10%;
+  border-radius: 10px;
+  padding: 90px;
+}
+
+.arancione{
+  background-color: orange;
+  width: 300px;
+  height: 25px;
+  border-radius: 5px;
+}
+
+.verde{
+  background-color: green;
+  width: 550px;
+  height: 25px;
+  border-radius: 5px;
+}
+
+.rosso{
+  background-color: red;
+  width: 130px;
+  height: 25px;
+  border-radius: 5px;
+}
